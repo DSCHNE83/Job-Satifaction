@@ -1,11 +1,15 @@
 ﻿# Data Science Blog Post
 ## Job Satisfaction
-1. Installations
+### Project Structure
+The project is based on the following structure:
+- JobSatisfaction.csv. Only the important datas from the 2024 Stack Overflow Developer Survey
+- Analysis.ipynb. Is a python program built using jupyter notebook. It includes the code used to analyse the data.
+- survey.pdf. Is the 2024 Questionnaire 
+###Project Motivation
 
-2. Project Motivation
+### File Descriptions
 
-3. File Descriptions
+### How to Interact with your project
 
-4. How to Interact with your project
-
-5. Licensing, Authors, Acknowledgements, etc.
+### Licensing, Authors, Acknowledgements, etc.
+[links(https://survey.stackoverflow.co/)]
