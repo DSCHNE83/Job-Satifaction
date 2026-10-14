@@ -1,4 +1,5 @@
-﻿# Job-Satifaction
+﻿# Data Science Blog Post
+## Job Satisfaction
 1. Installations
 
 2. Project Motivation
