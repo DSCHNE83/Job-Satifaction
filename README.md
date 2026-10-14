@@ -12,4 +12,4 @@ The project is based on the following structure:
 ### How to Interact with your project
 
 ### Licensing, Authors, Acknowledgements, etc.
-[links(https://survey.stackoverflow.co/)]
+[links](https://survey.stackoverflow.co/)
